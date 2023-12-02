@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- ⚡ [My LeetCode][https://leetcode.com/](https://leetcode.com/karadyauran/)
+- ⚡ [My LeetCode](https://leetcode.com/karadyauran/)
+- 💪 I’m currently working on growing my coding skills
 
 <!--
 **karadyauran/karadyauran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
