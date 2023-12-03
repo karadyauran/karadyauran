@@ -1,16 +1,17 @@
-### Hi there 👋
-
-- ⚡ [My LeetCode](https://leetcode.com/karadyauran/)
-- 💪 I’m currently working on growing my coding skills
-
-<div id="header" align="center">
-    <h1>Hi there, I'm  Oleksandr </h1>
+<div id="header">
+    <h1>👋 Hi there, I'm  Oleksandr </h1>
     <h3>Java Developer</h3>
 </div>
 
-<div id="socials" align="center">
+<div id="socials"">
     <a href="[linkedin-url](https://www.linkedin.com/in/oleksandr-karadiaur-5151a7289/)">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" heigth="100px" alt="LinkedIn"/>
+    </a>
+    <a href="[leetcode-url](https://leetcode.com/karadyauran/)">
+    <img src="https://img.shields.io/badge/LeetCode-red?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+    </a>
+    <a href="[codewars-url](https://www.codewars.com/users/karadyauran)">
+    <img src="https://img.shields.io/badge/CodeWars-red?style=for-the-badge&logo=codewars&logoColor=white" alt="LeetCode"/>
     </a>
 </div>
 
@@ -25,11 +26,14 @@
 ### Languages and tools
 
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg" title="java" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="html" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="css" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/bash/bash-original.svg" title="bash" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title="git" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="sql" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="postgresql" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original.svg" title="mysql" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/spring/spring-original.svg" title="spring" width="40" height="40"/>&nbsp;
+<img src="https://img.icons8.com/color/96/000000/intellij-idea.png" title="intellij-idea" width="40" height="40"/>&nbsp;
+
+
 
 ### My stat
 
