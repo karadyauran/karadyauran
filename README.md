@@ -4,13 +4,13 @@
 </div>
 
 <div id="socials"">
-    <a href="[linkedin-url](https://www.linkedin.com/in/oleksandr-karadiaur-5151a7289/)">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" heigth="100px" alt="LinkedIn"/>
+    <a href="https://www.linkedin.com/in/oleksandr-karadiaur-5151a7289/" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" heigth="100px" alt="LinkedIn""/>
     </a>
-    <a href="[leetcode-url](https://leetcode.com/karadyauran/)">
+    <a href="https://leetcode.com/karadyauran/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LeetCode-red?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
     </a>
-    <a href="[codewars-url](https://www.codewars.com/users/karadyauran)">
+    <a href="https://www.codewars.com/users/karadyauran" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/CodeWars-red?style=for-the-badge&logo=codewars&logoColor=white" alt="LeetCode"/>
     </a>
 </div>
