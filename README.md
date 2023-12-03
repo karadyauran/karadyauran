@@ -32,7 +32,8 @@
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original.svg" title="mysql" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/spring/spring-original.svg" title="spring" width="40" height="40"/>&nbsp;
 <img src="https://img.icons8.com/color/96/000000/intellij-idea.png" title="intellij-idea" width="40" height="40"/>&nbsp;
-
+<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/docker/docker-original.svg" title="docker" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linux/linux-original.svg" title="linux" width="40" height="40"/>&nbsp;
 
 
 ### My stat
