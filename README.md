@@ -10,9 +10,6 @@
     <a href="https://leetcode.com/karadyauran/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LeetCode-red?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
     </a>
-    <a href="https://www.codewars.com/users/karadyauran" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/CodeWars-red?style=for-the-badge&logo=codewars&logoColor=white" alt="LeetCode"/>
-    </a>
 </div>
 
 ### About me
@@ -27,13 +24,15 @@
 
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg" title="java" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/bash/bash-original.svg" title="bash" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" title="bash" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title="git" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="postgresql" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original.svg" title="mysql" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/spring/spring-original.svg" title="spring" width="40" height="40"/>&nbsp;
 <img src="https://img.icons8.com/color/96/000000/intellij-idea.png" title="intellij-idea" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/docker/docker-original.svg" title="docker" width="40" height="40"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=docker" title="docker" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linux/linux-original.svg" title="linux" width="40" height="40"/>&nbsp;
+<img src="https://cdn.simpleicons.org/postman/FF6C37" title="linux" width="40" height="40"/>&nbsp;
 
 
 ### My stat
