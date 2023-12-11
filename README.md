@@ -15,6 +15,7 @@
 ### About me
 - 🌱 I’m currently learning **Java**
 - 📄 Know about me [CV](https://drive.google.com/file/d/1cyCcae_VZ7eKodPdhsE6F5j7PFxvTRUw/view?usp=share_link)
+- 💻 Working on a project [Agile](https://github.com/karadyauran/Agile)
 - 📫 Reach me by email: karadiaur.oleksandr@gmail.com
 - 🌍 I speak English, Ukrainian, Russian
 
