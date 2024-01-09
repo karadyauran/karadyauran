@@ -1,5 +1,5 @@
 <div id="header">
-    <h1>👋 Hi there, I'm  Oleksandr </h1>
+    <h1>👋 Hi there! I'm Oleksandr</h1>
     <h3>Java Developer</h3>
 </div>
 
@@ -13,9 +13,9 @@
 </div>
 
 ### About me
-- 🤓 Intern Java Developer
+- 🤓 Java Developer
 - 🌱 I’m currently learning **Java**
-- 📄 Know about me [CV](https://drive.google.com/file/d/1cyCcae_VZ7eKodPdhsE6F5j7PFxvTRUw/view?usp=share_link)
+- 📄 Know about me [CV](https://github.com/karadyauran/karadyauran/blob/main/Oleksandr%20Karadiaur%20Backend%20Developer.pdf)
 - 💻 Working on a project [Agile](https://github.com/karadyauran/Agile)
 - 📫 Reach me by email: karadiaur.oleksandr@gmail.com
 - 🌍 I speak English, Ukrainian, Russian
