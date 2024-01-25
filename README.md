@@ -4,7 +4,7 @@
 </div>
 
 <div id="socials"">
-    <a href="https://www.linkedin.com/in/oleksandr-karadiaur-5151a7289/" style="text-decoration: none;">
+    <a href="https://www.linkedin.com/in/karadyauran/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" heigth="100px" alt="LinkedIn""/>
     </a>
     <a href="https://leetcode.com/karadyauran/" style="text-decoration: none;">
@@ -15,7 +15,7 @@
 ### About me
 - 🤓 Java Developer
 - 🌱 I’m currently learning **Java**
-- 📄 Know about me [CV](https://github.com/karadyauran/karadyauran/blob/main/Oleksandr%20Karadiaur%20Backend%20Developer.pdf)
+- 📄 Know about me [CV](https://github.com/karadyauran/karadyauran/blob/main/Oleksandr_Karadaiur_Java_Backend_Developer.pdf)
 - 💻 Working on a project [Agile](https://github.com/karadyauran/Agile)
 - 📫 Reach me by email: karadiaur.oleksandr@gmail.com
 - 🌍 I speak English, Ukrainian, Russian
