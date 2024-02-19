@@ -1,61 +1,31 @@
-<div id="header">
-    <h1>👋 Hi there! I'm Oleksandr</h1>
-    <h3>Java Developer</h3>
-</div>
+### Hey, I'm Alex 👋🏽  
 
-<div id="socials"">
-    <a href="https://www.linkedin.com/in/karadyauran/" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" heigth="100px" alt="LinkedIn""/>
-    </a>
-    <a href="https://leetcode.com/karadyauran/" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LeetCode-red?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
-    </a>
-</div>
+I'm a 20-year-old developer based in Germany, and I'm passionate about crafting digital experiences. 
 
-### About me
-- 🤓 Java Developer
-- 🌱 I’m currently learning **Java**
-- 📄 Know about me [CV](https://github.com/karadyauran/karadyauran/blob/main/Oleksandr_Karadaiur_Java_Backend_Developer.pdf)
-- 💻 Working on a project [Agile](https://github.com/karadyauran/Agile)
-- 📫 Reach me by email: karadiaur.oleksandr@gmail.com
-- 🌍 I speak English, Ukrainian, Russian
+- I’m currently learning Java and Python.
+- Check out my [resume](https://github.com/karadyauran/karadyauran/blob/main/Oleksandr_Karadaiur_Java_Backend_Developer.pdf) to know more about me.
+- Currently working on a projects [Agile](https://github.com/karadyauran/Agile) and [xyrocron](https://github.com/karadyauran/xyrocron/tree/main) on different languages.
+- Reach me by email: karadiaur.oleksandr@gmail.com.
+ 
+## 📦 Toolbox
 
----
+**Backend Development:** `Java` `Python` `Spring` `Django`
+ 
+**Version Control:** `Git` `GitLab` `GitHub`
 
-### Languages and tools
+**Frontend Development:** `JavaScript` `TypeScript` `React` 
 
-<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg" title="java" width="70" height="70"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/bash/bash-original.svg" title="bash" width="70" height="70"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" title="gradle" width="70" height="70"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title="git" width="70" height="70"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original.svg" title="mysql" width="70" height="70"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/spring/spring-original.svg" title="spring" width="70" height="70"/>&nbsp;
-<img src="https://img.icons8.com/color/96/000000/intellij-idea.png" title="intellij-idea" width="70" height="70"/>&nbsp;
-<img src="https://skillicons.dev/icons?i=docker" title="docker" width="70" height="70"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linux/linux-original.svg" title="linux" width="70" height="70"/>&nbsp;
-<img src="https://cdn.simpleicons.org/postman/FF6C37" title="postman" width="70" height="70"/>&nbsp;
+**Testing:** `Postman` `JUnit` `TestNG`
 
+**Others:** `Docker` 
+ 
+## ✨ Fun Facts 
 
-### My stat
+- Demon Slayer is my favorite anime.
+- As a kid, I wanted to be an astronaut.
+- I love using Mac after switching from Linux.
 
-<div id="stat" align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karadyauran&theme=github_dark" alt=""/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=karadyauran&theme=github_dark" alt=""/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=karadyauran&theme=github_dark" alt=""/>
-</div>
+## 📫 Contact
 
-
-<!--
-**karadyauran/karadyauran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/karadyauran/). 
+ 
