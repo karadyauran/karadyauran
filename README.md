@@ -21,9 +21,9 @@ I'm a 20-year-old developer based in Germany, and I'm passionate about crafting 
  
 ## ✨ Fun Facts 
 
-- Demon Slayer is my favorite anime.
+- Cars is my favorite cartoon from childhood.
 - As a kid, I wanted to be an astronaut.
-- I love using Mac after switching from Linux.
+- I'm using Windows, macOS and Linux.
 
 ## 📫 Contact
 
