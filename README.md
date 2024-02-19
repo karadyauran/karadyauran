@@ -27,5 +27,5 @@ I'm a 20-year-old developer based in Germany, and I'm passionate about crafting 
 
 ## 📫 Contact
 
- For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/karadyauran/). 
+ For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/karadyauran/) or [Telegram](https://t.me/karadyauran).
  
