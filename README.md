@@ -5,7 +5,7 @@ I'm a 20-year-old developer based in Germany, and I'm passionate about crafting 
 - I’m currently learning Java and Python.
 - Check out my [resume](https://github.com/karadyauran/karadyauran/blob/main/Oleksandr_Karadaiur_Java_Backend_Developer-3.pdf) to know more about me.
 - Currently working on a projects [airum](https://github.com/karadyauran/airum) and [xyrocron](https://github.com/karadyauran/xyrocron/tree/main) on different languages.
-- Reach me by email: karadiaur.oleksandr@gmail.com.
+- Reach me by email: alex.karadyaur@outlook.com.
  
 ## 📦 Toolbox
 
