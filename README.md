@@ -9,10 +9,14 @@
 **Who I Am**  
 I’m a freelance developer who turns your vision into a digital experience that drives results.
 
+---
+
 **My Approach**  
 - Understand your brand’s unique value  
 - Transform insights into user-friendly platforms  
 - Continuously optimize for growth and engagement
+
+---
 
 **What I Can Do for You**  
 - Create online platforms that evolve with your business  
